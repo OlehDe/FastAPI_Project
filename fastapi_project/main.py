@@ -12,3 +12,4 @@ if __name__ == "__main__":
 
 #pip install fastapi uvicorn
 #fastapi dev main.py
+#https://app.diagrams.net/#G1Kbk6UIWjM-8sHL1Qv3co49U7IwJ7ygUA#%7B%22pageId%22%3A%22w7UQazSxdPBglzHmsAxP%22%7D
